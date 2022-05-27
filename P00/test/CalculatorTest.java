@@ -31,7 +31,7 @@ public class CalculatorTest {
 		int a = 4323;
 		int b = 1234;
 		
-		//Testing
+		//Testing1234
 			
 		Calculator cal = new Calculator();
 		int actual = cal.add(a, b); 
